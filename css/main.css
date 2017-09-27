@@ -1,0 +1,59 @@
+html {
+  font-family: "Open Sans", sans-serif;
+  font-weight: 100;
+  background-color: #010101;
+  color: #fffef4;
+}
+
+h1,
+h2 {
+  font-family: "Oswald", serif;
+}
+
+h1 {
+  color: #fffef4;
+}
+
+h2 {
+  color: #fffef4;
+}
+
+.masthead,
+.footer {
+  background-color: #010101;
+  color: #fffef4;
+}
+
+.nav a {
+  border-bottom: .08em solid #f36;
+  color: #fffef4;
+  text-decoration: none;
+  background-color: #283747;
+
+}
+
+.logo {
+  width: 64px;
+}
+
+.banner-content {
+  font-family: "Open Sans", serif;
+  font-weight: 100;
+  color: #fffef4;
+  text-shadow: .05em .05em .15em rgba(0, 0, 0, .6);
+  text-align: left;
+}
+
+.insta {
+  color: #fffef4; 
+}
+
+.nav a:hover {
+  background-color: #d5d8dc;
+  color: #283747;
+}
+
+body {
+  background-image: url("../images/cupcake-2.svg");
+  background-size: 70px;
+}
